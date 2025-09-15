@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Array_list/bin/Debug/net8.0
+/Array_list/obj
+/class_object/bin/Debug/net8.0
+/class_object/obj
+/.vs/loops/DesignTimeBuild
+/inheritace_pro/bin/Debug/net8.0
+/inheritace_pro/obj
+/inheritance/bin/Debug/net8.0
+/inheritance/obj
+/loops/bin/Debug/net8.0
+/loops/obj
+/oops/obj
